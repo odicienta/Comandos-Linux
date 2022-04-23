@@ -4,6 +4,7 @@ Repositorio de comandos de Linux
 Comandos Semana 3
 
 comando man
+
 se mostrarán las instrucciones manuales del comando tail.
 
 comando tail
